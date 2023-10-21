@@ -3,8 +3,11 @@ layout: page
 title: About
 permalink: /about/
 description: The word "Praxis" refers to a process whereby an idea or theory is applied in the real world. At the heart of this idea is a focus on integrating theory and practice. 
-image: /images/Shot by Jackson Ruckar - 71.jpg
+image: /images/AW Praxis Logo Variations_black_bg.png
+
+
 ---
+
 
 When it comes to the activity of armwrestling, we live for the ***act itself***, whether it's a casual match at a bar, an intense practice session, or the highest levels of competition. 
 
