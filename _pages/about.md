@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 description: The word "Praxis" refers to a process whereby an idea or theory is applied in the real world. At the heart of this idea is a focus on integrating theory and practice. 
-image: /images/AW Praxis Logo Variations_black_bg.png
+image: /images/Logos/AW Praxis Logo Variations_black_bg.png
 
 
 ---
@@ -29,5 +29,5 @@ This site, then,  is a place where armwrestlers of all experiences levels can fi
 
 Whether you are a hobbyist, enthusiastic beginner, or seasoned pro, my hope for you is that Armwrestling Praxis can serve as a reliable source of support and guidance along your armwrestling journey. 
 
-<cite>-Shaildhish Rai, Armwrestler & Founder of Armwrestling Praxis, Written 10/20/2023</cite>
+<cite>-Shaildhish Rai, Armwrestler & Founder of Armwrestling Praxis</cite>
 

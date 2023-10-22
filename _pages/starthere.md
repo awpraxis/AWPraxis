@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Welcome to Armwrestling Praxis 
+title: ""
 permalink: /start/
-image: 
+image: /images/Shot by Jackson Ruckar - 65.jpg
 
 ---
-Welcome.
+Welcome to Amrwrestling Praxis.
 
 If you're new here, this page will outline how to navigate this site depending on your interests and needs. 
 

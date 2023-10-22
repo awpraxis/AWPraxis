@@ -1,11 +1,11 @@
 #-------------------------------
 # Site Settings
 title: Armwrestling Praxis
-logo: /images/full_icon+logo_white_text_HALFSIZE.png
+logo: /images/Logos/full_icon_white_text.PNG
 darkmode_logo: /images/full_icon_white_text.PNG
 lightmode_logo: /images/full_icon_black_text.PNG
 description: Mria is a multipurpose blog theme for Jekyll
-color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 
@@ -80,7 +80,7 @@ tag__settings:
 author__section:
   enable: true
   author__section__title: The Origins of Armwrestling Praxis
-  author__section__description: The word "Praxis" refers to a process whereby an idea or theory is applied in the real world. Armwrestling Praxis was created to embody this principle by bridging the gap between theory and practice. Our mission is to create engaging, informative, and value-rich content that educates the wider armwrestling community and inspires action and application above all else. 
+  author__section__description: Armwrestling Praxis was created to bridge the gap between theory and practice. Our mission is to create engaging, informative, and value-rich content that educates the wider armwrestling community and inspires action and application above all else. 
   aurhor__section__button__text: More About Us
   aurhor__section__button__link: /about
   author__section__big__image: /images/Shot by Jackson Ruckar - 71.jpg
