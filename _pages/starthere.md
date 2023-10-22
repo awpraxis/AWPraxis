@@ -3,7 +3,7 @@ layout: page
 title: Welcome to Armwrestling Praxis 
 permalink: /start/
 image: 
-background-image: 
+
 ---
 Welcome.
 

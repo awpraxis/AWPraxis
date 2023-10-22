@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", function() {
   'use strict';
 
@@ -13,7 +14,6 @@ document.addEventListener("DOMContentLoaded", function() {
     searchBox = document.querySelector(".search__box"),
     toggleTheme = document.querySelector(".toggle-theme"),
     btnScrollToTop = document.querySelector(".top");
-
 
   /* =======================================================
   // Menu + Search + Theme Switcher
@@ -63,15 +63,16 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 
-
   // Theme Switcher
   if (toggleTheme) {
     toggleTheme.addEventListener("click", () => {
       darkMode();
     });
   };
+  
+// Old function darkmode: this originally came with the theme
 
-  function darkMode() {
+function darkMode() {
     if (html.classList.contains('dark-mode')) {
       html.classList.remove('dark-mode');
       localStorage.removeItem("theme");

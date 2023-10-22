@@ -1,9 +1,11 @@
 #-------------------------------
 # Site Settings
 title: Armwrestling Praxis
-logo: /images/full_icon_white_text.PNG
+logo: /images/full_icon+logo_white_text_HALFSIZE.png
+darkmode_logo: /images/full_icon_white_text.PNG
+lightmode_logo: /images/full_icon_black_text.PNG
 description: Mria is a multipurpose blog theme for Jekyll
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 

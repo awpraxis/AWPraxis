@@ -15,6 +15,7 @@
 }
 
 /* Logo */
+
 .logo__link {
   padding: 4px 0;
   font-size: 32px;
@@ -29,8 +30,9 @@
 }
 
 .logo__image {
-  max-height: 100px;
-  transform: translateX(-20px);
+  max-height: 50px;  
+
+
 }
 
 /* Nav */
@@ -249,6 +251,7 @@
   height: 28px;
   display: none;
   cursor: pointer;
+
 
   @media only screen and (max-width: $desktop) {
     display: flex;
