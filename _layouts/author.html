@@ -41,6 +41,11 @@ layout: default
       {% endif %}
       </div>
 
+      {% if page.description %} <!-- Start of added code -->
+      <p class="author__description">{{ page.description }}</p>
+      {% endif %} <!-- End of added code -->
+
+
       {{ content }}
 
     </div>
