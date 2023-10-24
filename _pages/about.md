@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: The word "Praxis" refers to a process whereby an idea or theory is applied in the real world. At the heart of this idea is a focus on integrating theory and practice. 
+description: The word "Praxis" refers to a process of applying a concept or theory in the real world. At the heart of this idea is a focus on integrating theory and practice. 
 image: /images/Logos/AW Praxis Logo Variations_black_bg.png
 
 

@@ -104,7 +104,7 @@ And there it is. The top three areas of strength in armwrestling are Wrist Flexi
 
 Rise, Cup, Roll.
 
-For those who are new to the sport, it may come as a surprise that the hand,wrist, and forearm occupy such a prominent position within armwrestling, yet once this knowledge has been internalized it becomes an easier task to focus our training efforts and address the movements which allow us to progress in the specific activity that is armwrestling.
+For those who are new to the sport, it may come as a surprise that the hand, wrist, and forearm occupy such a prominent position within armwrestling, yet once this knowledge has been internalized it becomes an easier task to focus our training efforts and incorporate the movements which allow us to progress in the specific activity that is armwrestling.
  
 While I've provided practical descriptions of each movement here, there are several other things that must be explained in order to have a more complete understanding of how they pertain to armwrestling situations.
 

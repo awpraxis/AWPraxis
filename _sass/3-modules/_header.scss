@@ -31,8 +31,20 @@
 
 .logo__image {
   max-height: 100px;  
+}
 
+.logo__image__dark {
+  display: none;
+}
 
+.dark-mode {
+  .logo__image {
+    display: none;
+  }
+  .logo__image__dark {
+    display: block;
+    max-height: 100px;  /* Added this line */
+  }
 }
 
 /* Nav */
