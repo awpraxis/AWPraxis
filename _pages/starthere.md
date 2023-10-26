@@ -5,7 +5,7 @@ permalink: /start/
 image: /images/Shot by Jackson Ruckar - 65.jpg
 
 ---
-Welcome to Amrwrestling Praxis.
+Welcome to Armwrestling Praxis.
 
 If you're new here, this page will outline how to navigate this site depending on your interests and needs. 
 
