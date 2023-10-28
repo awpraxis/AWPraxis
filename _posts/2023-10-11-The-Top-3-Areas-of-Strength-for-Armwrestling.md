@@ -4,9 +4,9 @@ title: The Top 3 Areas of Strength for Armwrestling
 description: 
 date: 2023-10-13
 author: me
-image: '/images/Cover-Images-for-Posts/coverphoto_top3_areas_of_armwrestling.png'
+image: '/images/Cover-Images-for-Posts/top3_coverimage.png'
 tags: [AW Fundamentals]
-tags_color: '#7ED957'
+tags_color: '#00BF63'
 featured: true
 permalink: '/top-3/'
 
