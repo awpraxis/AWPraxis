@@ -25,9 +25,9 @@ As armwrestlers, we are practitioners first and foremost, but we also understand
 
 **Armwrestling Praxis was created to address  and fuse both sides of this process: to unite reflection and participation -- theory and practice -- through  engaging, informative, and value-rich content that educates the wider armwrestling community and inspires action and application above all else.** 
 
-This site, then,  is a place where armwrestlers of all experiences levels can find  answers to their questions regarding any and all aspects of the sport. 
+This site, then,  is a place where armwrestlers of all experience levels can find  answers to their questions regarding any and all aspects of the sport. 
 
-Whether you are a hobbyist, enthusiastic beginner, or seasoned pro, my hope for you is that Armwrestling Praxis can serve as a reliable source of support and guidance along your armwrestling journey. 
+Whether you are a casual hobbyist, enthusiastic beginner, or seasoned pro, my hope for you is that Armwrestling Praxis can serve as a reliable source of support and guidance along your armwrestling journey. 
 
 <cite>-Shaildhish Rai, Armwrestler & Founder of Armwrestling Praxis</cite>
 

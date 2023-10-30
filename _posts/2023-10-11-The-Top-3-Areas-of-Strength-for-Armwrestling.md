@@ -2,7 +2,7 @@
 layout: post
 title: The Top 3 Areas of Strength for Armwrestling
 description: 
-date: 2023-10-13
+date: 2023-10-30
 author: me
 image: '/images/Cover-Images-for-Posts/top3_coverimage.png'
 tags: [AW Fundamentals]
@@ -12,7 +12,7 @@ permalink: '/top-3/'
 
 ---
 
-Contrary to its name, armwrestling does not primarily depend on the strength of one's arm.
+Contrary to the name, armwrestling does not primarily depend on the strength of one's arm.
 
 
 
@@ -30,23 +30,25 @@ No doubt the arm – *and even the entire body to a degree* – contributes to t
 
 We should be more specific.
 
-Hand strength can manifest in innumerable ways e.g. crushing grip strength, pinching grip strength, hook grip etc., but not all of them are equally important or even applicable for armwrestling. 
+Hand, wrist, and forearm strength (or “hand strength” for short) can manifest in innumerable ways e.g. crushing grip strength, pinching grip strength, hook grip etc., but not all of them are equally important or even applicable for armwrestling. 
 
 So which hand movements are most relevant to the activity?
 
 ![handgrip types](/images/commongriptypes.png)
 *Common Grip Variations*
 
-In short, there are three key movements that armwrestlers prioritize above all else. While many argue about the relative importance of these three movements, they are in near-uniform agreement about their primacy regarding armwrestling-specific strengths. These three motions are:
+In short, there are *three key movements* that armwrestlers prioritize above all else. 
 
-1. **Wrist Flexion**
+While there's some debate about their relative significance, the general consensus is that these three movements are at the top of the pyramid when it comes to armwrestling-specific strengths. In no particular order of importance, they are: 
+
+1. **Wrist/Finger Flexion**
 2. **Pronation**
 3. **Radial Deviation**
 
 Let's go into more detail for each of these.
 
 
-## Wrist Flexion
+## Wrist/Finger Flexion
 
 Wrist flexion or “Cupping” is the act of bending one’s wrist so that the palm faces towards the forearm.
 
@@ -75,7 +77,7 @@ The ability to “maintain our pronation” in an armwrestling match **unlocks t
 Although we would ideally want to maintain pronation from a neutral grip towards a fully pronated grip, there are defensive situations when our wrist becomes more supinated when we can still utilize pronation strength (though it is less effective than a more pronated position).
 
 ![coolasspic](/images/Shot by Jackson Ruckar - 13.jpg)
-*Defensive position is depicted here where pronation is less effective since the hand is more supinated. Photo by [Jackson Ruckar](https://jacksonruckar.com/)*
+*Defensive position is depicted here where pronation is less effective since the hand is "palm-up" i.e. more supinated. Photo by [Jackson Ruckar](https://jacksonruckar.com/)*
 
 One final point to note is that pronation is the mortal enemy of the previous movement: Cup. Pronation and Cup negate each other in an armwrestling setting.
 
@@ -108,8 +110,4 @@ For those who are new to the sport, it may come as a surprise that the hand, wri
  
 While I've provided practical descriptions of each movement here, there are several other things that must be explained in order to have a more complete understanding of how they pertain to armwrestling situations.
 
-You can find those articles here:
-
-* Link to “what exactly cupping” articles
-* Link to pronation article
-* Link to rise article
+Those articles will be published soon and linked below.
