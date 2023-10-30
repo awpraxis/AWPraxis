@@ -16,7 +16,7 @@ Contrary to the name, armwrestling does not primarily depend on the strength of 
 
 
 
-No doubt the arm – *and even the entire body to a degree* – contributes to the dance that is armwrestling, but professional armwrestlers know that the secret to their success lies elsewhere, and that they must strengthen these other key areas to secure advantages on the table.
+No doubt the arm – *and even the entire body to a degree* – contributes to the dance, but professional armwrestlers know that the secret to their success lies elsewhere, and that they must strengthen these other key areas to secure advantages on the table.
 
 
 
