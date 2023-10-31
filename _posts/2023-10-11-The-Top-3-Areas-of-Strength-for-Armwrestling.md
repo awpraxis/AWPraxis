@@ -39,7 +39,7 @@ So which hand movements are most relevant to the activity?
 
 In short, there are *three key movements* that armwrestlers prioritize above all else. 
 
-While there's some debate about their relative significance, the general consensus is that these three movements are at the top of the pyramid when it comes to armwrestling-specific strengths. In no particular order of importance, they are: 
+While there’s some debate about each movement’s importance with respect to the other two, the general consensus ranks all three at the top of the pyramid when it comes to armwrestling-specific strengths. In no particular order of importance, they are:
 
 1. **Wrist/Finger Flexion**
 2. **Pronation**
@@ -54,6 +54,8 @@ Wrist flexion or “Cupping” is the act of bending one’s wrist so that the p
 
 When you hear armwrestlers talking about their Cup, they are primarily referring to wrist flexion, although a degree of finger flexion plays a supporting role due to the fact that we must actually grip our opponent’s hand while armwrestling. 
 
+For this reason, Cupping can mean either *wrist flexion or wrist AND finger flexion* depending on the situation.
+ 
 ![wrist flexion](/images/wrist flexion.png)
 
 Having a strong Cup allows one to "contain" their opponent's hand, thereby placing them in a defensive position where they have less access to their strength and are forced to recruit fewer muscles in the fight. 
@@ -74,7 +76,7 @@ In armwrestling, pronation strength is usually expressed in a static manner and 
 
 The ability to “maintain our pronation” in an armwrestling match **unlocks the potential for offensive movement** and, through it, access to a huge range of technical ability.
 
-Although we would ideally want to maintain pronation from a neutral grip towards a fully pronated grip, there are defensive situations when our wrist becomes more supinated when we can still utilize pronation strength (though it is less effective than a more pronated position).
+Although we would ideally want to maintain pronation from a neutral grip towards a fully pronated grip, there are defensive situations when our wrist becomes more supinated where we can still utilize pronation strength (though it is less effective than a more pronated position).
 
 ![coolasspic](/images/Shot by Jackson Ruckar - 13.jpg)
 *Defensive position is depicted here where pronation is less effective since the hand is "palm-up" i.e. more supinated. Photo by [Jackson Ruckar](https://jacksonruckar.com/)*
@@ -90,19 +92,19 @@ I’m referring to the subtle movement called “radial deviation” which occur
 ![rise](/images/radial deviation.png)
 *Radial deviation or "Rise"*
 
-The ability to apply radial deviation or “Rise” is one of the deadliest weapons in an armwrestler’s arsenal, and the top pros all recognize its importance within the armwrestling-strengths hierarchy – one of the best armwrestlers on the planet, Devon Larratt, is one of the biggest proponents of having a strong Rise.
+The ability to apply radial deviation or “Rise” during an armwrestling match is one of the deadliest weapons in the game, and the top pros all recognize its importance within the armwrestling-strengths hierarchy – one of the best armwrestlers on the planet, Devon Larratt, is one of the biggest proponents of having a strong Rise.
 
 ![devonrise](/images/devonriselift.PNG)
 *Devon Larratt training Rise*
 
 
-The short version of the "why" is that the ability to have a stronger Rise or "Out-Rising" your opponent enables you to dictate the tactical conditions of the match and places your opponent in a “reactive” (rather than active) position with respect to you.
+The short version of the "why" is that having a stronger Rise or "Out-Rising" your opponent enables you to dictate the tactical conditions of the match and places your opponent in a “reactive” (rather than active) position with respect to you.
 
-The exact mechanics of why this happens are outside the scope of this article, but just know that your time is well spent training this subtle, but deadly motion.
+The exact mechanics of why this happens are outside the scope of this article, but just know that your time is well spent training this subtle, but lethal motion.
 
 ## Rise, Cup, Roll
 
-And there it is. The top three areas of strength in armwrestling are Wrist Flexion, Pronation, and Radial Deviation.
+And there it is. The top three areas of strength in armwrestling are Wrist/Finger Flexion, Pronation, and Radial Deviation.
 
 Rise, Cup, Roll.
 
