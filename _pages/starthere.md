@@ -15,7 +15,7 @@ My goal with this series is to efficiently onboard newcomers who may have only a
 If that sounds like you, or you're just a curious person wanting to know more about the world of organized armwrestling, then scroll below and you'll find what you're looking for.
 
 
-If you prefer a less structured approach then head over to the [Articles]({{site.baseurl }}/blog/) page which contains all posts sorted from most recent to least and dive into whatever catches you eye. 
+If you prefer a less structured approach then head over to the [Articles]({{site.baseurl }}/blog/) page which contains all posts sorted from most recent to least and dive into whatever catches your eye. 
 
 Either way, this site is set up to encourage free-form exploration and as more articles are published here you’ll find creative ways to navigate through it.
 
