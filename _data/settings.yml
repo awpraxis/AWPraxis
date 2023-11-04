@@ -134,7 +134,10 @@ footer__menu__settings:
 # Contact Settings
 contact:
   email: xwkdyqzj # Add your form_id
-  description: Fill out the form below for any questions, inquiries, and concerns. We'll get back to you, shortly. # Add a description of your form
+  description: "Fill out the form below for any questions, inquiries, and concerns. We'll get back to you, shortly.<br>You can also reach us through our <a href='https://www.facebook.com/profile.php?id=61552628064262'>Facebook</a> and <a href='https://www.instagram.com/armwrestlingpraxis/'>Instagram</a> pages."
+  # Add a description of your form
+
+   # Add a description of your form
 
 # NOTE
 # Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
