@@ -5,7 +5,7 @@ description:
 date: 2023-10-30
 author: me
 image: '/images/Cover-Images-for-Posts/top3_coverimage.png'
-tags: [AW Fundamentals]
+tags: [fundamentals, foundational-ideas]
 tags_color: '#00BF63'
 featured: true
 permalink: '/top-3/'
