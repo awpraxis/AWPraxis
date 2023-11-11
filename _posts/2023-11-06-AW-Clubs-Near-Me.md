@@ -5,7 +5,7 @@ description:
 date: 2023-11-6
 author: me
 image: '/images/Cover-Images-for-Posts/awclubs_coverimage.png'
-tags: [fundamentals, first-steps]
+tags: [first-steps]
 tags_color: '#cb4949'
 featured: false
 permalink: '/aw-clubs-near-me/'

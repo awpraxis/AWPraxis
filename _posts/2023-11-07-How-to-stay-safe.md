@@ -5,7 +5,7 @@ description:
 date: 2023-11-7
 author: me
 image: '/images/Cover-Images-for-Posts/stay safe while aw.png'
-tags: [fundamentals, first-steps]
+tags: [first-steps]
 tags_color: '#4c49cb'
 featured: false
 permalink: '/how-to-stay-safe/'

@@ -30,7 +30,7 @@ Either way, this site is set up to encourage free-form exploration and as more a
 * Explaining the World of Organized Armwrestling for the Curious and Unitiated
 * [How To Stay Safe While Armwrestling]({{site.baseurl }}/how-to-stay-safe/)
 * [How Do I Find Armwrestling Clubs Near Me?]({{site.baseurl }}/aw-clubs-near-me/)
-* 3 Things Beginners Need to Focus on During Their First Year in the Sport
+* [3 Things Beginner Armwrestlers Need to Focus on During Their First Year in the Sport]({{site.baseurl }}/3-things-beginners/)
 
 <br>
 
