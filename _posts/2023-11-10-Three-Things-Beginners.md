@@ -45,7 +45,7 @@ As far as actual frequency is concerned, most experienced armwrestlers will advi
 
 ## 2. Post-Practice Recovery & Rehab
 
-Speaking of rest, newbie's learn very quickly during the days that follow a table-time session that their tendons/muscles need ample time to recover before they're back at 100%.
+Speaking of rest, newbies learn very quickly during the days that follow a table-time session that their tendons/muscles need ample time to recover before they're back at 100%.
 
 **To speed up the recovery process, we want to perform high-rep movements with light resistance throughout the week to ensure our body is adequately healed by the next table session.**
 
