@@ -14,7 +14,7 @@ layout: null
 
 <!-- Add Feed Logo -->
         <image>
-            <url>{{ "/images/Logos/full_icon_white_text.PNG" | prepend: site.baseurl | prepend: site.url }}</url>
+            <url>{{ "/images/Logos/Logo_deep_blue_500x500.png" | prepend: site.baseurl | prepend: site.url }}</url>
             <title>{{ site.data.settings.title | xml_escape }}</title>
             <link>{{ site.url }}{{ site.baseurl }}/</link>
         </image>
