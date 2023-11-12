@@ -55,9 +55,9 @@ I will cover the details of various rehab/recovery methods in a different articl
 *144p Devon Larratt explaining why rehab is important*
 
 
-One key point to note about this method of recovery is that we are focusing on performing armwrestling-specific motions targeting the hand,wrist, and elbow instead of more general movements and exercises.
+One key point to note about this method of recovery is that we are focusing on performing armwrestling-specific motions targeting the hand, wrist, and elbow instead of more general movements and exercises.
 
-The reason for this is that armwrestling is a hand/wrist dominant sport and these specific movements will not only direct blood towards the inflamed areas (which facilitates recovery), but will also build a neurological connection with the hand & wrist so that you can more naturally engage those while armwrestling.
+The reason for this is that armwrestling is a hand/wrist dominant sport and these specific movements will not only direct blood towards the inflamed areas (which facilitates recovery), but will also build a neurological connection with the hand & wrist so that you can more naturally engage them while armwrestling.
 
 ## 3. Compete!!
 
