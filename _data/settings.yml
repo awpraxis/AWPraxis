@@ -111,7 +111,7 @@ social:
 #- {icon: "pinterest", link: "https://pinterest.com"}
 #- {icon: "vimeo", link: "https://vimeo.com"}
 - {icon: "instagram", link: "https://www.instagram.com/armwrestlingpraxis/"}
-
+- {icon: "rss", link: "https://www.armwrestlingpraxis.com/feed.xml"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
