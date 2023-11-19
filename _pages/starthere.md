@@ -37,6 +37,6 @@ Either way, this site is set up to encourage free-form exploration and as more a
 ### Foundational Ideas in Armwrestling
 
 * [The Top 3 Areas of Strength for Armwrestling]({{site.baseurl }}/top-3/)
-* The "Armwrestling Chain" and the Links that Make it Up
+* [The "Armwrestling Chain" and the Links that Make it Up]({{site.baseurl }}/aw-chain/)
 * Static vs. Dynamic Strength in Armwrestling
 
