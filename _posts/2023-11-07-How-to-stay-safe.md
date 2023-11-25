@@ -19,7 +19,7 @@ As is the case with most sports, noob injuries are not so much due to the inhere
 
 There are few activities where this holds more true than in armwrestling.
 
-![match1](/images/Shot by Jackson Ruckar - 121.jpg)
+![match1](/images/Pull Hook Press _22/Shot by Jackson Ruckar - 121.jpg)
 *Photo by [Jackson Ruckar](https://jacksonruckar.com/)*
 
 **The unfortunate truth is that most people don't know how to armwrestle. At all.**
@@ -34,7 +34,7 @@ All of these injuries can be traced back to the overuse of one simple motion: in
 The chances of injury compound when one turns their body AWAY from their hand while continuing to push sideways through internal rotation (as shown below).
 
 
-![walarmbreak](/images/walarmbreakposition.jpg)
+![walarmbreak](/images/AW Pics/walarmbreakposition.jpg)
 *Do NOT turn your body away from your hand like the guy on the left. This is called an “armbreak position"*
 
 
@@ -68,7 +68,7 @@ I’d also recommend watching the following videos to solidify your understandin
 * [Armwrestling Arm Break Explained](https://www.youtube.com/watch?v=75DqIE-1X1k)
 * [The VERY explainable ARM BREAK & How to avoid them](https://www.youtube.com/watch?v=pl7VSLlGeok)
 
-![voa](/images/voaarmbreakvideo1.PNG)
+![voa](/images/AW Pics/voaarmbreakvideo1.PNG)
 *Raimonds Liepins from the [Voice of Armwrestling YouTube channel](https://www.youtube.com/@voiceofarmwrestling) demonstrating how to move safely on the table*
 
 
@@ -78,7 +78,7 @@ Although the tips and videos above are enough to give you a basic understanding 
 
 Essentially, what you really need to do is seek out a local armwrestling club in your region where you can apply these lessons and learn from more experienced armwrestlers during regular practice sessions.
 
-![devonseminar](/images/devon_seminar_2.jpg)
+![devonseminar](/images/AW Pics/devon_seminar_2.jpg)
 
 Not only will attending regular practices at a club decrease your likelihood of injury, but you will learn how to move in an efficient manner allowing you to generate far more force than if you were just pushing sideways like most people do.
 

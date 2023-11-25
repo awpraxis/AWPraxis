@@ -16,7 +16,7 @@ Your first year in a new hobby, project, or venture is one of the most memorable
 
 It’s the time when you experiment with different ideas, surround yourself with more experienced participants, and learn the basics of whatever it is you’re doing. 
 
-![practice1](/images/baa-practice-2.jpg)
+![practice1](/images/AW Pics/baa-practice-2.jpg)
 *Photo taken from a Bay Area Armwrestling  practice video by [Matt Silva](https://www.instagram.com/mattsilvaarmwrestling/)*
 
 There is a tendency, however, during these early stages to spread ourselves thin by attempting to do much at once – only later realizing that we should have focused on implementing and mastering a few basic habits first before hastily trying to move ahead.
@@ -31,7 +31,7 @@ The most important fundamental that beginners must learn is how to effectively m
 
 This is accomplished by frequently attending armwrestling practices where you learn the basics of safety and technique with other armwrestlers of varying size, shape, and experience level - this is referred to as “table time”.
 
-![practice2](/images/baapractice1.PNG)
+![practice2](/images/AW Pics/baapractice1.PNG)
 
 
 Not only does frequent table-time help you learn the specific skill that is the sport of armwrestling, it also conditions the necessary joints and tendons required to produce force in an armwrestling match. 
@@ -51,7 +51,7 @@ Speaking of rest, newbies learn very quickly during the days that follow a table
 
 I will cover the details of various rehab/recovery methods in a different article, but for now I’ll just direct you to this [grainy vintage video](https://www.youtube.com/watch?v=i0t2yaAe-tY&t=306s) from pro armwrestler Devon Larratt which covers some basic rehab movements that you can perform with household items.
 
-![practice2](/images/devonrehabvideo1.PNG)
+![practice2](/images/AW Pics/devonrehabvideo1.PNG)
 *144p Devon Larratt explaining why rehab is important*
 
 
@@ -64,7 +64,7 @@ The reason for this is that armwrestling is a hand/wrist dominant sport and thes
 As soon as you have learned the basics of staying safe on the table and have been practicing long enough to have some working knowledge of various techniques (which you should if you have been attending table-time sessions regularly), find a local tournament and enter as many weight classes as you can (Both Right and Left Arms).
 
 
-![sickphoto](/images/Shot by Jackson Ruckar - 82.jpg)
+![sickphoto](/images/Pull Hook Press _22/Shot by Jackson Ruckar - 82.jpg)
 *Photo by [Jackson Ruckar](https://jacksonruckar.com/)*
 
 When you're a new armwrestler, the point of these tournaments is not to obtain a specific win/loss outcome, but to gain actual experience armwrestling another human being in a unique, competitive environment.

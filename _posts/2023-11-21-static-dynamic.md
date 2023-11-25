@@ -24,7 +24,7 @@ So what are these common threads?
 
 Well, since armwrestling is largely a strength sport (with combat elements), any discussion of how to get stronger on the table should start with an understanding of what our body is **actually doing to produce strength.**
 
-![devon217](/images/devon-217pic-1.jpg)
+![devon217](/images/AW Pics/devon-217pic-1.jpg)
 *Photo by [Brad Cook](https://www.facebook.com/TwoOneSe7en)*
 
 When it comes to the sport of armwrestling, all of the various hand, wrist, and arm/body strengths can be broadly classified within the following two categories:
@@ -47,7 +47,7 @@ Simply put, dynamic movements are those that induce a joint to go through a part
 
 A familiar example of an isolated dynamic movement is the bicep curl where the arm moves up and down through the rotation of the elbow joint.
 
-![bicepcurl](/images/bicep-curl-3899888_1280.jpg)
+![bicepcurl](/images/AW Pics/bicep-curl-3899888_1280.jpg)
 
 When we are performing these dynamic movements against some form of resistance, our muscles are tensing up and alternating between periods of "shortening" or "lengthening" –  aka contraction.
 
@@ -60,7 +60,7 @@ We can classify these muscle contractions using terms you've probably heard befo
 *Both of these fall under the heading of "Isotonic Contractions."*
 
 <p style="text-align: center;">
-  <img src="/images/eccentric-vs-concentric-bicep curl.jpg" alt="concentric vs. eccentric">
+  <img src="/images/Anatomy Pics/eccentric-vs-concentric-bicep curl.jpg" alt="concentric vs. eccentric">
 </p>
 
 **Keeping these definitions in mind, we’ll refer to "dynamic strength" as simply the amount of force we are able to produce within a partial or full range of motion of a particular dynamic movement.**
@@ -79,7 +79,7 @@ The muscle contraction that occurs during this static condition is called an **i
 
 So if we wanted to target our biceps in a static manner, we could take a barbell and hold it in place at some point within the range of motion of a bicep curl as depicted below.
 
-![isometric_curl](/images/isometric-bicep-curl.png)
+![isometric_curl](/images/AW Pics/isometric-bicep-curl.png)
 *In a static “movement”, our muscles are isometrically contracting and there is minimal to no shortening or lengthening of the muscle*
 
 **Following through with our logic, "static strength" can be defined as the amount of force exerted by the body to maintain a specific static position.**
@@ -100,7 +100,7 @@ Right after the ref says "Go" we initiate through some degree of dynamic motion 
 
 In the case of tactical adjustments, we see one or both competitors making small dynamic movements through their wrist, fingers, elbow, or shoulder in order to solidify a key position or to exploit their opponent's weak links or just some other adjustment that will result in an advantage – a common example of this kind of adjustment is the "regrip".
 
-![tacticaladjustments](/images/aw-dynamic-movements.jpg)
+![tacticaladjustments](/images/AW Pics/aw-dynamic-movements.jpg)
 *Tactical adjustments being made. Photo by [Ed Bedrosian](https://www.instagram.com/edbone3000/).*
 
 Now, although there's a fair bit of dynamic movement after the "Go" and during these transition episodes, they still do not paint the entire picture of the **real** kinds of strength that are required on the armwrestling table.

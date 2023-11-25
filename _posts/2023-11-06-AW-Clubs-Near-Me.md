@@ -16,7 +16,7 @@ One of the hardest things about pursuing a new hobby or project is finding peopl
 
 When it comes to the niche sport of armwrestling, this difficulty is amplified due to the average person not even realizing that it exists in an organized format, and when they do, they are misinformed about its technical aspects and believe that it’s a risky and reckless endeavor to be avoided altogether.
 
-![Artarm](/images/Shot by Jackson Ruckar - 148.jpg)
+![Artarm](/images/Pull Hook Press _22/Shot by Jackson Ruckar - 148.jpg)
 *Photo by [Jackson Ruckar](https://jacksonruckar.com/)*
 
 Despite all that, armwrestling has seen an explosion in growth within the past few years and, with it, an increase in newcomers looking to connect with the broader community and start their armwrestling journey.
@@ -76,7 +76,7 @@ Hopefully you've decided that there's no better time than now to start participa
 
 Make that jump, and you'll never look back.
 
-![baa](/images/Baagroupphoto.jpg)
+![baa](/images/AW Pics/Baagroupphoto.jpg)
 *Bay Area Armwrestling Club. Photo by [Matt Silva](https://www.instagram.com/mattsilvaarmwrestling/)*
 
 

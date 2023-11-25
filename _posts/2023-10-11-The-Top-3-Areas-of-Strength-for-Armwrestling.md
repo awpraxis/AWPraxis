@@ -23,7 +23,7 @@ No doubt the arm – *and even the entire body to a degree* – contributes to t
 ##### Those key areas are the hand, wrist, and forearm.
 
 
-![Artarm](/images/artarmhandle.jpg)
+![Artarm](/images/AW Pics/artarmhandle.jpg)
 *[Artarm](https://www.amazon.com/ARTARM-Armwrestling-Grip-Handle-Wrestling/dp/B08NV6677L?th=1) handle featured*
 
 ## Which Hand Strengths?
@@ -34,7 +34,7 @@ Hand, wrist, and forearm strength (or “hand strength” for short) can manifes
 
 So which hand movements are most relevant to the activity?
 
-![handgrip types](/images/commongriptypes.png)
+![handgrip types](/images/Graphics_and_Diagrams/commongriptypes.png)
 *Common Grip Variations*
 
 In short, there are *three key movements* that armwrestlers prioritize above all else. 
@@ -56,7 +56,7 @@ When you hear armwrestlers talking about their Cup, they are primarily referring
 
 For this reason, Cupping can mean either *wrist flexion or wrist AND finger flexion* depending on the situation.
  
-![wrist flexion](/images/wrist flexion.png)
+![wrist flexion](/images/Graphics_and_Diagrams/wrist flexion.png)
 
 Having a strong Cup allows one to "contain" their opponent's hand, thereby placing them in a defensive position where they have less access to their strength and are forced to recruit fewer muscles in the fight. 
 
@@ -70,7 +70,7 @@ That's pronation.
 
 In armwrestling, pronation strength is usually expressed in a static manner and the objective is not necessarily to pronate through a large range of motion, but rather, to “maintain one’s pronation” or maintain one’s wrist position anywhere between a neutral-grip to a fully pronated grip (shown below).
 
-![proantion](/images/fistgrips_940x788.png)
+![proantion](/images/Graphics_and_Diagrams/fistgrips_940x788.png)
 *Various grips shown. In armwrestling, pronation usually refers to any position between a neutral pronated grip and a fully pronated grip*
 
 
@@ -78,7 +78,7 @@ The ability to “maintain our pronation” in an armwrestling match **unlocks t
 
 Although we would ideally want to maintain pronation from a neutral grip towards a fully pronated grip, there are defensive situations when our wrist becomes more supinated where we can still utilize pronation strength (though it is less effective than a more pronated position).
 
-![coolasspic](/images/Shot by Jackson Ruckar - 13.jpg)
+![coolasspic](/images/Pull Hook Press _22/Shot by Jackson Ruckar - 13.jpg)
 *Defensive position is depicted here where pronation is less effective since the hand is "palm-up" i.e. more supinated. Photo by [Jackson Ruckar](https://jacksonruckar.com/)*
 
 One final point to note is that pronation is the mortal enemy of the previous movement: Cup. Pronation and Cup negate each other in an armwrestling setting.
@@ -89,12 +89,12 @@ This final movement is one of the most underutilized strengths in armwrestling (
 
 I’m referring to the subtle movement called “radial deviation” which occurs when you bend your wrist “upwards” or towards the thumb and the radius bone. 
 
-![rise](/images/radial deviation.png)
+![rise](/images/Graphics_and_Diagrams/radial deviation.png)
 *Radial deviation or "Rise"*
 
 The ability to apply radial deviation or “Rise” during an armwrestling match is one of the deadliest weapons in the game, and the top pros all recognize its importance within the armwrestling-strengths hierarchy – one of the best armwrestlers on the planet, Devon Larratt, is one of the biggest proponents of having a strong Rise.
 
-![devonrise](/images/devonriselift.PNG)
+![devonrise](/images/AW Pics/devonriselift.PNG)
 *Devon Larratt training Rise*
 
 
