@@ -8,7 +8,7 @@ image: /images/Pull Hook Press _22/Shot by Jackson Ruckar - 65.jpg
 
 Welcome to Armwrestling Praxis. 
 
-This page will be dedicated to outlining a series of articles that take a brand-new, never set-their-elbow-on-a-table-before, beginner through the major aspects of organized armwrestling in a sequential manner. 
+This page will be dedicated to outlining a series of articles that take a brand-new beginner through the major aspects of the sport of organized armwrestling.
 
 My goal with this series is to efficiently onboard newcomers who may have only armwrestled in casual settings and/or seen popular clips or videos about armwrestling, but don’t how to get started on their own journey.
 
