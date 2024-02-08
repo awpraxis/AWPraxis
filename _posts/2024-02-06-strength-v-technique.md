@@ -2,11 +2,11 @@
 layout: post
 title: Strength vs. Technique in Armwrestling
 description: 
-date: 2024-02-06
+date: 2024-02-07
 author: me
-image: '/images/Cover-Images-for-Posts/static-dynamic.png'
+image: '/images/Cover-Images-for-Posts/StrengthvsTechnique-cover.png'
 tags: [foundational-ideas]
-tags_color: '#0097B2'
+tags_color: '#cb4949'
 featured: true
 permalink: '/strength-v-technique/'
 
@@ -24,7 +24,8 @@ Strength is important, they say, but it’s the armwrestler’s application of s
 ![schoolboyvsjuji](/images/AW Pics/schoolboyvsjuji.jpg)
 *YouTuber Jujimufu (Left) vs. pro armwrestler Aleksandr "Schoolboy" Beziazykov (Right)*
 
-While many of these answers do have elements of truth in them, they’re usually presented in a kind of specious or anecdotal manner, and lead to more questions springing up rather than closure on the matter.
+While many of these answers do have elements of truth in them, they’re usually presented in a kind of specious or anecdotal manner and lead to more questions springing up rather than closure on the matter.
+
 In the spirit of inquiry then, let’s investigate exactly how strength and technique come into play in an armwrestling match by running through some thought experiments and see if we can extract some useful answers in the process.
 
 This post will be a longer, more involved read, but at the end of it you’ll have a much better perspective on how to approach the “strength vs. technique” debate.
@@ -46,23 +47,23 @@ Let’s imagine that we have two healthy individuals gripping up for an armwrest
 Let’s further assume that both participants start fairly, which just means that neither have any major mechanical advantages in their starting positions nor are they exerting significant pressures into their opponent’s hand beyond a standard grip.
 
 ![nvb](/images/AW Pics/NvB.jpg)
-*Mr. N (Left) vs. Mr. B*
+*Mr. N (Left) vs. Mr. B (Right)*
 
 What happens here?
 
 
-Well usually at the start of the match both participants begin to “push” sideways [a terrible way to armwrestle, btw]({{site.baseurl }}/how-to-stay-safe/) in order to pin their opponent’s hand and we observe that it things can go one way or the other since both are capable of producing similar levels of force and don’t have any technique to fall back on. 
+Well usually at the start of the match both participants begin to “push” sideways ([a terrible way to armwrestle, btw]({{site.baseurl }}/how-to-stay-safe/)) in order to pin their opponent’s hand and we observe that things can go one way or the other since both are capable of producing similar levels of force and don’t have any technique to fall back on. 
 
 Maybe out of 10 hypothetical matches we have a rough 50 % win rate for either person, so at this point we don’t have a clear answer for whether strength or technique are more important.
 
 
-Suppose now Mr. N turns to his pro armwrestler friend for advice on how to gain an advantage over the equally-strong and technical Mr. B and is told exactly how to do so through the application of some technique.
+Suppose now Mr. N turns to his pro armwrestler friend for advice on how to gain an advantage over the equally-strong Mr. B and is told exactly how to do so through the application of some technique.
 
 
-ow if we replay the scenario, it’s very likely that Mr. N will **consistently** beat Mr. B (assuming the latter doesn’t make any significant adjustments of their own), and we can award “technique” as the more important factor for victory in this particular case.
+Now if we replay the scenario it’s very likely that Mr. N will **consistently** beat Mr. B (assuming the latter doesn’t make any significant adjustments of his own), and, as a result, we can award “technique” as the more important factor for victory in this particular case.
 
 ![nvb2](/images/AW Pics/NvB-2.jpg)
-*Mr. N (Left) exploiting the fingers and wrist of Mr. B (Right)*
+*Mr. N exploiting the fingers and wrist of Mr. B*
 
 Observing this result, we can clearly understand why most casual folks rate technique so highly since the person applying it can consistently gain advantages over another. Add to all of this the fact that one can potentially even beat **stronger** opponents with technique alone and the “technique > strength” perspective starts looking like the clear winner of the debate.
 
@@ -88,23 +89,24 @@ Now if you aren’t aware, Brian Shaw is an ultra-elite strongman competitor who
 While Derek is a top-level armwrestler and a strong individual in his own right, he doesn’t have the same conventional strength capabilities as Brian and so we can assume that this is a case of a “stronger” non-armwrestler going up against a “weaker” armwrestler.
 
 
-While most of the video shows Derek coaching Brian on the fundamentals of how to move on an amrmwrestling table as well as how to apply specific pressures and strategies during a match, there are a few moments when Brian tries to exert himself and overpower Derek’s pressures and is unable to do so even when the latter deliberately places himself in a compromised position.
+For most of the video Derek is coaching Brian on the fundamentals of how to move on an armmwrestling table as well as how to apply specific pressures and strategies during a match, however, there are a few moments when Brian tries to exert himself and overpower Derek’s pressures and is unable to do so even when the latter deliberately places himself in a compromised position.
 
 Thus, it becomes clear by the end of the video that Derek could easily best Brian in a real armwrestling match, and frankly, no one is too surprised by this.
 
 ![derekvbrian](/images/AW Pics/derekvbrian.PNG)
 *Brian Shaw being coached by pro armwrestler Derek Smith*
 
+BUT, if I pose the question of whether strength or technique is what primarily enables Derek to do all of this, most casual folks would confidently assert “technique” since Brian is clearly the stronger of the two.
 
 I’m going to argue for the opposite case: that although a degree of technique is certainly involved in gaining an advantage, the decisive factor for why Derek (and other professional armwrestlers) toy with most amateurs is **strength**. 
 
 
-To support my argument I’ll assert and expand on the following:
+To support my argument I’ll assert and expand on the following two points:
 
 
-1. Our body’s ability to produce force in an armwrestling match (strength) is ALWAYS required whenever we are trying to “overcome” the physical resistance applied by our opponent. 
+1. Our body’s ability to produce force in an armwrestling match (**strength**) is ALWAYS required whenever we are trying to “overcome” the physical resistance applied by our opponent. 
 
-2. Any technique that’s incorporated towards overcoming this resistance achieves two broad goals:
+2. Any **technique** that’s incorporated towards overcoming this resistance achieves two broad goals:
 
 * It effectively “lowers” the strength required to overcome resistance.
 
@@ -155,7 +157,7 @@ Coming back to armwrestling, the same logic applies.
 
 A large portion of the techniques that professional armwrestlers implement are simply efficient ways of lowering the strength requirements of achieving a particular outcome. Whether that outcome is exploiting their opponent's hand and wrist, executing a positional adjustment or transition, or just trying to pin, the application of their techniques lets them get away with "lifting 350” instead of the whole 400.
 
-This is why I asserted that strength is, ultimately, a more important factor than technique for armwrestler vs non-armwrestler scenarios since it is strength which bounds and defines the conditions of success of a particular kind of technique.
+**This is why I asserted that strength is, ultimately, a more important factor than technique for armwrestler vs non-armwrestler scenarios since it is strength which bounds and defines the conditions of success of a particular kind of technique.**
 
 Essentially, if the armwrestler doesn’t meet that minimum strength requirement of being able to overcome any kind of resistance from their opponent, then technique achieves nothing.
 
@@ -176,14 +178,15 @@ We want to apply our pressures and movements in such a way so as to nullify our 
 
 But, once again, if you're only strong enough to lift 50 lbs those techniques don't matter much (if at all) against a stronger opponent who’s applying 80 lbs of resistance, and you simply have to get stronger in **armwrestling-specific movements** in order to "unlock" the ability to use those techniques.
 
-Still paying attention? We’re almost done, but the final piece I want to talk about is the “armwrestling-specific strengths” idea from the sentence above.
+Still paying attention? We’re almost done, but the final piece I want to talk about is the “armwrestling-specific movements” idea from the sentence above.
 
 ## Armwrestling-Specific Strength
 
-What most people don’t understand about strength (as it pertains to the human body and its various systems) is that it’s a much more “particular” ability than most people assume. 
-To use a familiar example, when most people see bodybuilders they intuitively understand that, while they have large amounts of muscle mass, they might not be as strong as say, a powerlifter, in conventional strength movements like the bench press, squat, and deadlift since the powerlifter trains and develops the specific factors that are involved in maximizing their ability to improve performance in these specific movements.
+What we have to understand about the idea of strength (as it pertains to the human body and its various systems) is that it’s a much more “particular” ability than most people recognize. 
 
-This principle of specificity carries over to a sport like armwrestling where those same bodybuilders and powerlifters are unable to resist/produce the specific forces exerted by an armwrestler simply due to their lack of development in those strengths.
+To use a familiar example, when most people see bodybuilders they intuitively understand that although they have large amounts of muscle mass, they might not be as strong as, say, a powerlifter in conventional strength movements like the bench press, squat, and deadlift since the powerlifter trains and develops the specific factors that are involved in maximizing their ability to improve performance in these specific movements.
+
+This principle of specificity carries over to a sport like armwrestling where those same bodybuilders and powerlifters are unable to resist/produce the forces exerted by an armwrestler simply due to their lack of development in the required specific areas of strength.
 
 
 **This, I believe, is the source of so much confusion that arises in the strength vs. technique debate. Not only is there a misunderstanding of what technique is actually doing, but the whole notion of “strength” omits the principle of specificity so that most casual folks hardly recognize that armwrestling prioritizes the ability to produce force in a very particular rather than conventional way.**<sup>3<sup>
@@ -202,7 +205,7 @@ This is the reason why professional armwrestlers like Derek are able to easily b
 
 
 
- For a more detailed look at the specific hand/wrist motions involved check out this [article]({{site.baseurl }}/top-3/).
+ For a more detailed look at the specific hand/wrist motions involved in armwrestling check out this [article]({{site.baseurl }}/top-3/).
 
 
 ## The Full Picture
@@ -217,9 +220,9 @@ For those who are casual armwrestlers and are just looking to beat some of their
 
 For those situations where pro armwrestlers are dominating larger, conventionally stronger opponents, strength is the decisive factor for why the armwrestler is able to do what they do, while technique simply affords them the ability to reduce the load and expose weaknesses. 
 
-Hopefully this article has cleared things up for you a bit and piqued your curiosity enough to learn more about the details of armwrestling strength and technique. 
+Hopefully this article has cleared things up for you a bit and piqued your curiosity enough to learn more about the details of armwrestling-specific strengths and technique. 
 
-You can find more on that here:
+You can find more on both of those here:
 
 * [Static vs. Dynamic Strength in Armwrestling]({{site.baseurl }}/static-dynamic/)
 * [The “Armwrestling Chain” and the Links that Make it Up]({{site.baseurl }}/aw-chain/)
